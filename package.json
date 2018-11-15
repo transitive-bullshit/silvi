@@ -1,6 +1,6 @@
 {
   "name": "silvi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Silvius Maximus. An npm package to honor the man, the legend, and of course ACRONYMS.",
   "main": "index.js",
   "repository": "transitive-bullshit/silvi",
@@ -22,6 +22,5 @@
     "standard": "^11.0.0",
     "update-markdown-jsdoc": "^1.0.6"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
