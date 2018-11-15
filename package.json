@@ -1,0 +1,27 @@
+{
+  "name": "silvi",
+  "version": "0.0.1",
+  "description": "Silvius Maximus. An npm package to honor the man, the legend, and of course ACRONYMS.",
+  "main": "index.js",
+  "repository": "transitive-bullshit/silvi",
+  "author": "Travis Fischer <travis@automagical.ai>",
+  "license": "MIT",
+  "reveal": true,
+  "scripts": {
+    "docs": "update-markdown-jsdoc --no-markdown-toc",
+    "test": "standard"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "silvi"
+  ],
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "standard": "^11.0.0",
+    "update-markdown-jsdoc": "^1.0.6"
+  },
+  "dependencies": {
+  }
+}
